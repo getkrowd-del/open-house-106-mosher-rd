@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://getkrowd-del.github.io/open-house-106-mosher-rd/sitemap.xml
